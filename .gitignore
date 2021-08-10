@@ -1,5 +1,8 @@
 .cache
 
+/rsconnect/
+*/rsconnect/
+
 # History files
 .Rhistory
 .Rapp.history
