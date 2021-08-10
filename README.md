@@ -6,4 +6,4 @@ Weeks 1 & 2 contain introductory Shiny apps - these have not been deployed to sh
 
 Week 3 contains an integrated Shiny app deployed to shinyapps.io - [Proprty Tracker](https://wl7tso-hdshea.shinyapps.io/PropertyTracker/)
 
-Week 4 contains an integrated Shiny app deployed to shinyapps.io - Biodiversity In National Parks
+Week 4 contains an integrated Shiny app deployed to shinyapps.io - [Biodiversity In US National Parks](https://wl7tso-hdshea.shinyapps.io/NationalParksBiodiversity/)
