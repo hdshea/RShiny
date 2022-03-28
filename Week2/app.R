@@ -93,7 +93,6 @@ server <- function(input, output) {
     })
 
     # lng = 174.768, lat = -36.852, popup = "The birthplace of R"
-    # lng = 174.768, lat = -36.852, popup = "The birthplace of R"
     # lng = 144.980, lat = -37.820, popup = "The G, Melbourne"
     # lng = 144.965, lat = -37.812, popup = "Cookie, Melbourne"
     # lng = 151.208, lat = -33.868, popup = "GPO, Sydney"
@@ -103,7 +102,7 @@ server <- function(input, output) {
     output$map <- renderLeaflet({
         leaflet() %>%
             addTiles() %>%  # Add default OpenStreetMap map tiles
-            addMarkers(lng = -95.960, lat = 36.039, popup = "Margaritaville Tulsa")
+            addMarkers(lng = 174.768, lat = -36.852, popup = "The birthplace of R")
     })
 
     output$select_value <- renderPrint({ input$select })
